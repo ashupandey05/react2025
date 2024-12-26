@@ -32,6 +32,7 @@ const Netflixseries = () => {
       <h3>Rating:{5 + 3.2}</h3>
       <p>{summary}</p>
       <p>Genre: {getGenre()}</p>
+      <p>Seasons: 5</p>
     </>
   );
 };
