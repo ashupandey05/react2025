@@ -7,12 +7,9 @@ import Netflixseries, {Header} from "./components/netfix.jsx";
 function App() {
   return (
     <>
-      <Header />
+      
       <Netflixseries />
-      <Netflixseries />
-      <Netflixseries />
-      <Netflixseries />
-      <Netflixseries />
+      
     </>
   );
 }
